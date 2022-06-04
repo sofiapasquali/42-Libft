@@ -1,1 +1,1 @@
-# 42 Libft
+# 42 Libft (succeeded with 100%)
